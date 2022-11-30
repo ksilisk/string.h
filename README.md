@@ -1,7 +1,7 @@
 # String.h Library
 * [Description](#description)
 * [Build](#build)
-* [Tests]()
+* [Tests](#tests)
 * [Credits](#credits)
 
 ## Description
