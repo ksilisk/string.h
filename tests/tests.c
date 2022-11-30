@@ -1,4 +1,4 @@
-#include "s21_tests.h"
+#include "tests.h"
 
 START_TEST(s21_memset_tests) {
   // test 1

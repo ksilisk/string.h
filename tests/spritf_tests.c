@@ -1,4 +1,4 @@
-#include "s21_tests.h"
+#include "tests.h"
 
 START_TEST(simple_int) {
   char str1[BUFF_SIZE];
